@@ -3,7 +3,7 @@
 * To create Express app, we need to follow below commands
   1. <npm install express -g> , It will install Express
   2. <npm install express-generator -g>, It will install Express-generator
-  3. <express your-App-Name>
+  3. <express app-Name> , create express app
 
 # Basic folder structure of Express App
 
