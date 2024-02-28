@@ -14,3 +14,5 @@
     - app.js: contains application-level configurations and the starting point of the application.
     - package.json: The package.json file is usually present in the root directory of a Node.js project.
                     This file helps npm to identify the project and handle its dependencies.
+
+    - npm install eslint -g command used to eslint module global in app
