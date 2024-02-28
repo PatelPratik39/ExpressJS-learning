@@ -1,0 +1,19 @@
+- var arr=['one', 'two', 'three'];
+- var s = 'string';
+- var books= ["A", "B", "C"]
+- var name='John';
+doctype html
+html
+ head
+  include header.pug
+ body
+  ul
+    for book in books
+     li= book
+    else
+      li sorry, no books!
+  if name == 'John'
+     h1 Hello John
+  else
+      h1 My name is Bob
+  include footer.pug
