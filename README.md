@@ -1,5 +1,12 @@
 # ExpressJS-learning
 
+  # To install Express : 
+    npm install express
+  # to install middleware in express application:
+    npm install body-parser
+  # To install Body-parser
+    npm i –g body-parser
+
 * To create Express app, we need to follow below commands
   1. <npm install express -g> , It will install Express
   2. <npm install express-generator -g>, It will install Express-generator
@@ -17,3 +24,5 @@
 
     - npm install eslint -g command used to eslint module global in app
 # basic Roues and Paths
+
+*
