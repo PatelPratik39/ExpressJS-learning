@@ -2,12 +2,12 @@
 
   # To install Express : 
     npm install express
-  # to install middleware in express application:
+  # To install middleware in express application:
     npm install body-parser
   # To install Body-parser
     npm i –g body-parser
 
-* To create Express app, we need to follow below commands
+# To create Express app, we need to follow below commands
   1. <npm install express -g> , It will install Express
   2. <npm install express-generator -g>, It will install Express-generator
   3. 'express app-Name', create express app
@@ -29,7 +29,13 @@
   - npm install stylus -g
 
 # To install cookie-parser
-  -npm install cookie-parser
+  - npm install cookie-parser
 
  # To install express-session middleware, use npm 
-  - npm install express-sessionC
+  - npm install express-session
+
+# To install Helment middleware in Express Application
+  - npm install helmet
+
+# To install hydra-express, use npm.
+  - npm install hydra-expressC
