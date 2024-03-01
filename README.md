@@ -25,4 +25,8 @@
     - npm install eslint -g command used to eslint module global in app
 # basic Roues and Paths
 
-*
+# stylus - CSS preprocessor
+  - npm install stylus -g
+
+# To install cookie-parser
+  -npm install cookie-parser
