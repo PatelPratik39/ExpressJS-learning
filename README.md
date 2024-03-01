@@ -30,3 +30,6 @@
 
 # To install cookie-parser
   -npm install cookie-parser
+
+ # To install express-session middleware, use npm 
+  - npm install express-sessionC
